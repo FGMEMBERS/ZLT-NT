@@ -54,7 +54,7 @@
   </offsets>
  </model>
 
- <model>
+ <!-- model>
   <name>PFD Nav buttons</name>
   <path>Aircraft/CitationX/Models/Instruments/fmc.xml</path>
   <offsets>
@@ -62,7 +62,7 @@
    <y-m>-0.180</y-m>
    <z-m> 0.720</z-m>
   </offsets>
- </model>
+ </model -->
 
  <model>
   <name>Envelope Pressure Indicator</name>
