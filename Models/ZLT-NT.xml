@@ -47,6 +47,18 @@
   </offsets>
  </model>
 
+ <!-- Volumetric shadow object =============================================-->
+ <model>
+  <name>shadow</name>
+  <path>Aircraft/ZLT-NT/Models/shadow.xml</path>
+  <offsets>
+   <!-- x/y/z == back/right/up -->
+   <x-m> 0.00 </x-m>
+   <y-m> 0.00 </y-m>
+   <z-m> 0.00 </z-m>
+  </offsets>
+ </model>
+
  <!-- Livery selection =====================================================-->
  <animation>
   <type>material</type>
