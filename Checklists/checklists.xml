@@ -11,9 +11,9 @@
       airworthiness and have no connection whatsoever to any
       instructions for the real Zeppelin NT.
  -->
- <checklist include="Aircraft/ZLT-NT/Checklists/start-engine.xml"/>
- <checklist include="Aircraft/ZLT-NT/Checklists/before-take-off.xml"/>
- <checklist include="Aircraft/ZLT-NT/Checklists/cruise.xml"/>
- <checklist include="Aircraft/ZLT-NT/Checklists/final.xml"/>
+ <checklist include="start-engine.xml"/>
+ <checklist include="before-take-off.xml"/>
+ <checklist include="cruise.xml"/>
+ <checklist include="final.xml"/>
 
 </PropertyList>
