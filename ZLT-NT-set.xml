@@ -29,7 +29,8 @@
    <!-- altitude-agl-ft type="double">6.0</altitude-agl-ft -->
   </presets>
   <startup>
-   <splash-texture>Aircraft/ZLT-NT/splash.png</splash-texture>
+   <splash-texture>Aircraft/ZLT-NT/Splash/splash.png</splash-texture>
+   <splash-texture>Aircraft/ZLT-NT/Splash/splash1.png</splash-texture>
   </startup>
 
   <!-- 3d model -->
